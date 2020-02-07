@@ -1,0 +1,4 @@
+ch_split.settings:
+  title: 'Config Splits for Content Hub'
+  route_name: ch_split.settings
+  base_route: acquia_contenthub.admin_settings

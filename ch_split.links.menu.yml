@@ -1,0 +1,5 @@
+ch_split.settings:
+  title: 'Config Splits for Content Hub'
+  description: 'Manages config splits in use with Content Hub'
+  route_name: ch_split.settings
+  parent: acquia_contenthub.admin_settings

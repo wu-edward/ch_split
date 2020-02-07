@@ -1,0 +1,15 @@
+langcode: en
+status: false
+dependencies: {  }
+id: ach_subscriber
+label: 'Acquia Content Hub Subscriber'
+description: 'Split used to install Acquia Content Hub Subscriber module. Stored in database.'
+folder: ''
+module:
+  acquia_contenthub_subscriber: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

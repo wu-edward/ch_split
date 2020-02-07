@@ -1,0 +1,8 @@
+name: 'Config Splits for Content Hub'
+description: 'Provides configuration splits to enable publisher and subscriber sites for Acquia Content Hub.'
+type: module
+core: 8.x
+configure: ch_split.settings
+dependencies:
+  - drupal:acquia_contenthub
+  - drupal:config_split

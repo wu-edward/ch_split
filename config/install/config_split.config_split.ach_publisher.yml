@@ -1,0 +1,15 @@
+langcode: en
+status: false
+dependencies: {  }
+id: ach_publisher
+label: 'Acquia Content Hub Publisher'
+description: 'Split used to install Acquia Content Hub Publisher module. Stored in database.'
+folder: ''
+module:
+  acquia_contenthub_publisher: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

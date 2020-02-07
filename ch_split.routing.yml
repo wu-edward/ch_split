@@ -1,0 +1,7 @@
+ch_split.settings:
+  path: '/admin/config/ojp'
+  defaults:
+    _form: '\Drupal\ch_split\Form\ChSplitSettingsForm'
+    _title: 'Configure Config Splits for Content Hub'
+  requirements:
+    _permission: 'administer acquia content hub'
